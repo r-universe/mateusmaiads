@@ -5,3 +5,6 @@
 [submodule "randomMachines"]
 	path = randomMachines
 	url = https://github.com/mateusmaiads/randommachines
+[submodule "rjuliabugs"]
+	path = rjuliabugs
+	url = https://github.com/mateusmaiads/rjuliabugs
